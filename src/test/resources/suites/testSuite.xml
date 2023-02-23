@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Task" verbose="1" parallel="methods" thread-count="3">
+    <test name="Test Task" >
+        <classes>
+            <class name="UnionSortedArrayTest"/>
+        </classes>
+    </test>
+</suite>
